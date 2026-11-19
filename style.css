@@ -17,8 +17,8 @@ body {
 
 /* Main Card */
 .profile-card {
-    width: 450px;
-    height: 580px;
+    width: 400px;
+    height: 530px;
     perspective: 1000px;
     cursor: pointer;
 }
